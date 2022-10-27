@@ -10,12 +10,16 @@ Project Progress :
 Project Planning :
 
 1. Build and Deploy a Full Stack MERN Application.
-2. Programming Language : JavaScript.
-3. Platform : Node.js
-4. Frameworks : Express.js
-5. Libraries : React, Redux.
-6. Package Manager : NPM
-7. Database : MongoDB
-8. Deployment :
+2. HTML, CSS, Sass
+3. Programming Language : JavaScript.
+4. Platform : Node.js
+5. Frameworks : Express.js
+6. Libraries : React, Redux.
+7. Package Manager : NPM
+8. Database : MongoDB
+9. version control: Git
+10. API platform : Postman
+11. Deployment Front-end : Netlify/Vercel/Render
+12. Deployment Backend : Heroku/Vercel
 
 
